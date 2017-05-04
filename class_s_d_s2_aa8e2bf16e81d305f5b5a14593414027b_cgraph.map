@@ -1,0 +1,14 @@
+<map id="SDS2::getProjection" name="SDS2::getProjection">
+<area shape="rect" id="node2" href="$class_object_matrix.html#aabd852c4740c26bd3b06dd96643a6332" title="Returns the number of DataObjects in the set of DataObjects. " alt="" coords="198,5,393,32"/>
+<area shape="rect" id="node3" href="$class_object_matrix.html#a69d885c4bc2de6c443f0203f90f390ac" title="Clears the items from the DataObjects set. *. " alt="" coords="193,56,397,83"/>
+<area shape="rect" id="node4" href="$class_object_matrix.html#ad86f28d800ac47591eaa921c8e30fc98" title="Adds the DataObject to the set of DataObjects. " alt="" coords="214,107,377,133"/>
+<area shape="rect" id="node5" href="$class_object_matrix.html#aea8628a14f8288158aca8e23354ebadc" title="Returns the i&#45;th DataObject from the set of the DataObjects. " alt="" coords="209,157,382,184"/>
+<area shape="rect" id="node6" href="$class_data_object.html#a5f3a38761900e1dccbee711b1e58d879" title="Returns the class label. " alt="" coords="207,208,384,235"/>
+<area shape="rect" id="node7" href="$class_object_matrix.html#aff12e3268d72ed3289bb4ef2fb8a0931" title="ObjectMatrix::setPrintClass" alt="" coords="204,259,387,285"/>
+<area shape="rect" id="node8" href="$class_object_matrix.html#a09495608fe0a17993015a62b2c4ef177" title="Returns class atrribute names. " alt="" coords="201,310,390,351"/>
+<area shape="rect" id="node9" href="$class_additional_methods.html#a3e4a70d219edff70e17ccb5a1f073f05" title="AdditionalMethods::\lDataObjectTo1DArray" alt="" coords="221,478,369,519"/>
+<area shape="rect" id="node10" href="$class_data_object.html#afc40c36182d015ebfca1582dfb38a997" title="Returns the number of features. " alt="" coords="445,427,636,453"/>
+<area shape="rect" id="node12" href="$class_additional_methods.html#a5f432c573ac079be17896aed9f29fee0" title="Converts the alglib&#39;s one&#45;dimensional array to an DataObject object. " alt="" coords="206,543,385,585"/>
+<area shape="rect" id="node13" href="$class_distance_metrics.html#ab25ac729133a4462dc042f3018dd11e1" title="Calculates the distance between two DataObjects. " alt="" coords="199,427,392,453"/>
+<area shape="rect" id="node11" href="$class_data_object.html#aa258d90bef79d829aecf5c0f96d4cb21" title="Returns the feature at specified index. " alt="" coords="455,481,626,508"/>
+</map>
